@@ -24,7 +24,7 @@ Give Claude a design brief. Get back a site that feels crafted by a world-class 
 
 ```bash
 # Via openskills CLI
-npx openskills install [your-username]/lume
+npx openskills install xedyx123/LUME
 
 # Or manually — copy the lume/ folder to:
 # Antigravity: C:\Users\[you]\.gemini\antigravity\global_skills\lume\
